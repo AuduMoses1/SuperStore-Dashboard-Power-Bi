@@ -22,4 +22,4 @@
 - On Sub-Category Maximum Sales is in Copiers where as Minimum Sales is in Art and Maximum Discount is in Binders whereas Minimum Discount is in Envelopes.
 
 # Power BI Dashboard
-![]
+![](https://github.com/AuduMoses1/SuperStore-Dashboard-Power-Bi/blob/main/Screenshot%202025-08-20%20223640.png)
