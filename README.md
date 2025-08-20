@@ -3,4 +3,11 @@
 - The dashboard should include key metrics such as total sales, sales by product, sales by location, sales by customer segment, and sales by product category.
 - It should also provide comparisons of performance to prior years, and allow for drill-down into individual market and products.
 
-
+# Problem Statement:
+- Build a Sales Analysis Dashboard.
+  
+# Tools Used:
+- Microsoft Power BI
+  
+# Data:
+- Data Source: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
