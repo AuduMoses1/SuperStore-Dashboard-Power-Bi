@@ -11,3 +11,15 @@
   
 # Data:
 - Data Source: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
+
+# Dashboards:
+- Sales department can analyze sales and profit through this dashboard.
+- The company has made a Total Sales of 2.3 million and Total Profit of 286.40K and Total Quamtity of 38K.
+- On Ship-Mode Sales are more in Same Day, Discount are more in First Class and Profit are more in First Class.
+- On Segment Sales are more in Home Office, Discount are more in Corporate and Profit are more in Home Office.
+- New york city has the highest number of sales where as Highest Profit is in Jamestown and Lowest Profit is in Bethlehem.
+- on Category Highest Sales and Profit is in Technology and Highest Discount is given in Furniture.
+- On Sub-Category Maximum Sales is in Copiers where as Minimum Sales is in Art and Maximum Discount is in Binders whereas Minimum Discount is in Envelopes.
+
+# Power BI Dashboard
+![]
